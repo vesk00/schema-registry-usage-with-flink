@@ -1,6 +1,0 @@
-com\flink\poc\avro\serialization\SchemaRegistryKeyedDeserializationSchema.class
-com\example\Customer$1.class
-com\flink\poc\avro\serialization\SchemaRegistryKeyedSerializationSchema.class
-com\example\Customer$Builder.class
-com\flink\poc\ConsumerSK.class
-com\example\Customer.class
